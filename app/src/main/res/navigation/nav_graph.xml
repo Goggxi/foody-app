@@ -13,12 +13,12 @@
     <fragment
         android:id="@+id/favoriteRecipesFragment"
         android:name="com.goggxi.foody.FavoriteRecipesFragment"
-        android:label="Favorite"
+        android:label="Favorite Recipes"
         tools:layout="@layout/fragment_favorite_recipes" />
     <fragment
         android:id="@+id/foodJokeFragment"
         android:name="com.goggxi.foody.FoodJokeFragment"
-        android:label="Joke"
+        android:label="Food Joke"
         tools:layout="@layout/fragment_food_joke" />
 
 </navigation>
