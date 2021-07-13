@@ -11,4 +11,5 @@
     <string name="dummy_text_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum rutrum ligula et imperdiet. Pellentesque cursus eros vel dolor malesuada mollis. Sed quis nibh risus. Nullam ullamcorper molestie ligula, sed tempus eros dapibus nec. Praesent et est lacus. Ut elementum consequat cursus. Proin porttitor ligula purus, eu porta dolor vehicula at. Curabitur tincidunt, eros vel dictum dapibus, felis velit pellentesque lectus, in venenatis erat nibh eget velit.</string>
     <string name="dummy_text_title">Lorem Ipsum</string>
     <string name="dummy_value">100</string>
+    <string name="vegan">Vegan</string>
 </resources>

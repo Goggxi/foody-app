@@ -1,4 +1,4 @@
-package com.goggxi.foody
+package com.goggxi.foody.data.network
 
 import com.goggxi.foody.models.FoodRecipe
 import retrofit2.Response
