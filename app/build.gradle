@@ -3,7 +3,6 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-kapt'
 apply plugin: 'androidx.navigation.safeargs.kotlin'
 apply plugin: 'dagger.hilt.android.plugin'
-//apply plugin: 'kotlin-parcelize'
 apply plugin: 'kotlin-android-extensions'
 apply plugin:'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
 
@@ -12,7 +11,7 @@ android {
 
     defaultConfig {
         applicationId "com.goggxi.foody"
-        minSdkVersion 23
+        minSdkVersion 24
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
